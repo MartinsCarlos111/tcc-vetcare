@@ -1,0 +1,127 @@
+﻿@model IEnumerable<tcc_demo.Models.Animal>
+
+
+<h2>Listar Clientes</h2>
+
+
+<table class="table">
+
+    <tr>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idAnimal)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.nameAnimal)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.ageAnimal)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.speciesAnimal)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.breedAnimal)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.genderAnimal)
+
+        </th>
+
+        @*<th>
+
+            @Html.DisplayNameFor(model => model.idCustomer)
+
+        </th>*@
+
+     
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idAnimal)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.nameAnimal)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.ageAnimal)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.speciesAnimal)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.breedAnimal)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.genderAnimal)
+
+            </td>
+
+            @*<td>
+
+                @Html.DisplayFor(modelItem => item.idCustomer)
+
+            </td>*@
+
+
+            <td>
+
+                @Html.ActionLink("Atualizar", "UpdateAnimal", new { id = item.idAnimal }) |
+
+                @Html.ActionLink("Excluir", "DeleteAnimal", new { id = item.idAnimal }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+
+            </td>
+
+        </tr>
+
+    }
+
+
+
+</table>
+
+
+
+
+

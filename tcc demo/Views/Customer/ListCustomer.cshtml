@@ -1,0 +1,103 @@
+﻿@model IEnumerable<tcc_demo.Models.Customer>
+
+
+<h2>Listar Clientes</h2>
+
+
+<table class="table">
+
+    <tr>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.nameCustomer)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.cpfCustomer)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.emailCustomer)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.passwordCustomer)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.phoneCustomer)
+
+        </th>
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.nameCustomer)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.cpfCustomer)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.emailCustomer)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.passwordCustomer)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.phoneCustomer)
+
+            </td>
+
+
+            <td>
+
+                @Html.ActionLink("Atualizar", "UpdateCustomer", new { id = item.idCustomer }) |
+
+                @Html.ActionLink("Excluir", "DeleteCustomer", new { id = item.idCustomer }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+
+            </td>
+
+        </tr>
+
+
+
+    }
+
+
+
+</table>
+
+
+
+
+

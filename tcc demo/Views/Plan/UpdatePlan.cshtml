@@ -1,0 +1,116 @@
+﻿@model tcc_demo.Models.Plan
+<div class="center">
+
+    @using (Html.BeginForm("UpdatePlan", "Plan", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+    {
+
+        @Html.AntiForgeryToken()
+
+
+
+        <div class="form-horizontal">
+
+            <hr />
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group space-around-flex">
+
+                <div class="">
+
+                    @Html.LabelFor(model => model.namePlan, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.namePlan, new { htmlAttributes = new { @class = "form-control" } })
+
+                    @Html.ValidationMessageFor(model => model.namePlan, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+            <div class="form-group space-around-flex">
+
+                <div class="">
+
+                    @Html.LabelFor(model => model.descriptionPlan, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.descriptionPlan, new { htmlAttributes = new { @class = "form-control"} })
+
+                    @Html.ValidationMessageFor(model => model.descriptionPlan, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+
+
+            <div class="form-group center">
+
+                <div>
+
+                    @Html.LabelFor(model => model.pricePlan, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.pricePlan, new
+                    {
+                        htmlAttributes = new
+                        {
+                            @class = "form-control",
+                placeholder
+                = "Digite a senha"
+                        }
+                    })
+
+                    @Html.ValidationMessageFor(model => model.pricePlan, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+       
+
+            <div class="form-group center">
+
+                <div class="col-md-10">
+
+                    @ViewBag.msg <br />
+
+                </div>
+
+            </div>
+
+
+
+            <div class="form-group">
+
+                <div class="col-md-offset-2 col-md-10">
+
+                    <input type="submit" value="Atualizar Cliente" class="btn btn-success" />
+
+                </div>
+
+            </div>
+
+        </div>
+
+    }
+
+</div>
+
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

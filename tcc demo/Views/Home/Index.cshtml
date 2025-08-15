@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <ul class="navbar-nav flex-grow-1">
+        <li>@Html.ActionLink("Animal Cadastro", "CadAnimal", "Animal", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Animal List", "ListAnimal", "Animal", new { area = "" }, new { @class = "nav-link" })</li>
+
+        <li>@Html.ActionLink("Custumer Cadastro", "CadCustomer", "Customer", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Customer List", "ListCustomer", "Customer", new { area = "" }, new { @class = "nav-link" })</li>
+
+        <li>@Html.ActionLink("Plano Cadastro", "CadPlan", "Plan", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Plano List", "ListPlan", "Plan", new { area = "" }, new { @class = "nav-link" })</li>
+
+        <li>@Html.ActionLink("Produto Cadastro", "CadProduct", "Product", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Produto List", "ListProduct", "Product", new { area = "" }, new { @class = "nav-link" })</li>
+
+        <li>@Html.ActionLink("Agendamento Cadastro", "CadSchedule", "Schedule", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Agendamento List", "ListSchedule", "Schedule", new { area = "" }, new { @class = "nav-link" })</li>
+
+        <li>@Html.ActionLink("Serviço Cadastro", "CadService", "Service", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Serviço List", "ListService", "Service", new { area = "" }, new { @class = "nav-link" })</li>
+
+        <li>@Html.ActionLink("Fornecedor Cadastro", "CadSupplier", "Supplier", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Fornecedor List", "ListSupplier", "Supplier", new { area = "" }, new { @class = "nav-link" })</li>
+    </ul>
+    
+</main>

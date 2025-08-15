@@ -1,0 +1,168 @@
+﻿@model tcc_demo.Models.Customer
+
+<div class="center">
+
+    @using (Html.BeginForm("UpdateCustomer", "Customer", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+    {
+
+        @Html.AntiForgeryToken()
+
+
+
+        <div class="form-horizontal">
+
+            <hr />
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group space-around-flex">
+
+                <div class="">
+
+                    @Html.LabelFor(model => model.nameCustomer, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.nameCustomer, new { htmlAttributes = new { @class = "form-control" } })
+
+                    @Html.ValidationMessageFor(model => model.nameCustomer, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+            <div class="form-group space-around-flex">
+
+                <div class="">
+
+                    @Html.LabelFor(model => model.cpfCustomer, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.cpfCustomer, new { htmlAttributes = new { @class = "form-control" } })
+
+                    @Html.ValidationMessageFor(model => model.cpfCustomer, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+
+
+            <div class="form-group center">
+
+                <div>
+
+                    @Html.LabelFor(model => model.emailCustomer, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.emailCustomer, new
+                    {
+                        htmlAttributes = new
+                        {
+                            @class = "form-control",
+                placeholder
+                = "Digite a senha"
+                        }
+                    })
+
+                    @Html.ValidationMessageFor(model => model.emailCustomer, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+            <div class="form-group center">
+
+                <div>
+
+                    @Html.LabelFor(model => model.passwordCustomer, htmlAttributes: new
+                    {
+                        @class = "control-label col-md-2"
+                })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.passwordCustomer, new
+                    {
+                        htmlAttributes = new
+                        {
+                            @class = "form-control",
+                placeholder = "Digite a senha novamente"
+                        }
+                    })
+
+                    @Html.ValidationMessageFor(model => model.passwordCustomer, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+            <div class="form-group center">
+
+                <div>
+
+                    @Html.LabelFor(model => model.phoneCustomer, htmlAttributes: new { @class = "control-label col-md-2" })
+
+                </div>
+
+                <div class="col-md-10">
+
+                    @Html.EditorFor(model => model.phoneCustomer, new
+                    {
+                        htmlAttributes = new
+                        {
+                            @class = "form-control",
+                placeholder = "Digite a senha novamente"
+                        }
+                    })
+
+                    @Html.ValidationMessageFor(model => model.phoneCustomer, "", new { @class = "text-danger" })
+
+                </div>
+
+            </div>
+
+            <div class="form-group center">
+
+                <div class="col-md-10">
+
+                    @ViewBag.msg <br />
+
+                </div>
+
+            </div>
+
+
+
+            <div class="form-group">
+
+                <div class="col-md-offset-2 col-md-10">
+
+                    <input type="submit" value="Atualizar Cliente" class="btn btn-success" />
+
+                </div>
+
+            </div>
+
+        </div>
+
+    }
+
+</div>
+
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

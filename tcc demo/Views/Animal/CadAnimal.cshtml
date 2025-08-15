@@ -1,0 +1,61 @@
+﻿
+@model tcc_demo.Models.Animal
+
+@using (Html.BeginForm("CadAnimal", "Animal", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.nameAnimal)
+    </div>
+
+    <div class="editor-field">
+        @Html.EditorFor(m => m.nameAnimal, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.nameAnimal, "", new { @class = "text-danger" })
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.breedAnimal)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.breedAnimal, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.breedAnimal, "", new { @class = "text-danger" })
+
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.speciesAnimal)
+    </div>
+    <br />
+    <div class="editor-field">
+        @Html.EditorFor(m => m.speciesAnimal, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.speciesAnimal, "", new { @class = "text-danger" })
+
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.ageAnimal)
+    </div>
+    <br />
+    <div class="editor-field">
+        @Html.EditorFor(m => m.ageAnimal, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.ageAnimal, "", new { @class = "text-danger" })
+
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.genderAnimal)
+    </div>
+    <br />
+    <div class="editor-field">
+        @Html.EditorFor(m => m.genderAnimal, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.genderAnimal, "", new { @class = "text-danger" })
+
+    </div>
+    <br />
+
+    <input type="submit" value="Cadastrar" />
+}
+<br />
+@ViewBag.msg
+

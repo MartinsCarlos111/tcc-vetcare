@@ -1,0 +1,48 @@
+﻿
+@model tcc_demo.Models.Schedule
+
+@using (Html.BeginForm("CadSchedule", "Schedule", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    @Html.DropDownList("customer", "Escolha o usuario")
+    @Html.ValidationMessageFor(model => model.idCustomer, "", new { @class = "text-danger" })
+    <br />
+    @Html.DropDownList("animal", "Escolha o animal")
+    @Html.ValidationMessageFor(model => model.idAnimal, "", new { @class = "text-danger" })
+    <br />
+    @Html.DropDownList("service", "Escolha o serviço")
+    @Html.ValidationMessageFor(model => model.idService, "", new { @class = "text-danger" })
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.timeSchedule)
+    </div>
+
+    <div class="editor-field">
+        @Html.EditorFor(m => m.timeSchedule, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.timeSchedule, "", new { @class = "text-danger" })
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.dateSchedule)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.dateSchedule, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.dateSchedule, "", new { @class = "text-danger" })
+
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.observations)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.observations, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.observations, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+
+
+    <input type="submit" value="Cadastrar" />
+}
+<br />
+@ViewBag.msg

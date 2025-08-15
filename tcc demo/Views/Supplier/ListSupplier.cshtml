@@ -1,0 +1,79 @@
+﻿@model IEnumerable<tcc_demo.Models.Supplier>
+
+
+<h2>Listar Fornecedores</h2>
+
+
+<table class="table">
+
+    <tr>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idSupplier)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.nameSupplier)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.cnpjSupplier)
+
+        </th>
+
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idSupplier)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.nameSupplier)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.cnpjSupplier)
+
+            </td>
+
+
+
+            <td>
+
+                @Html.ActionLink("Atualizar", "UpdateSupplier", new { id = item.idSupplier }) |
+
+                @Html.ActionLink("Excluir", "DeleteSupplier", new { id = item.idSupplier }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+
+            </td>
+
+        </tr>
+
+    }
+
+
+
+</table>
+
+
+
+
+

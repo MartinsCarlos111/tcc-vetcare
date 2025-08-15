@@ -1,0 +1,416 @@
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\tcc demo.dll.config
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\tcc demo.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\tcc demo.pdb
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\csc.exe
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\csc.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\csc.rsp
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\csi.exe
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\csi.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\csi.rsp
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.AppContext.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Console.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Net.Http.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\vbc.exe
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\vbc.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\vbc.rsp
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Antlr3.Runtime.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\BouncyCastle.Crypto.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Google.Protobuf.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\K4os.Compression.LZ4.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\K4os.Hash.xxHash.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\MySql.Data.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Newtonsoft.Json.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Buffers.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.IO.Pipelines.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Memory.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Numerics.Vectors.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Helpers.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Mvc.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Optimization.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Razor.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.WebPages.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\WebGrease.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\BouncyCastle.Crypto.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Google.Protobuf.pdb
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Google.Protobuf.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\K4os.Compression.LZ4.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\K4os.Hash.xxHash.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\MySql.Data.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Buffers.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.IO.Pipelines.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Memory.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Numerics.Vectors.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Helpers.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Mvc.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Optimization.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.Razor.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.WebPages.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Newtonsoft.Json.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Antlr3.Runtime.pdb
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\obj\Debug\tcc demo.csproj.AssemblyReference.cache
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\obj\Debug\tcc demo.csproj.CoreCompileInputs.cache
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\obj\Debug\tcc demo.csproj.CopyComplete
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\obj\Debug\tcc demo.dll
+C:\Users\3adsmod\Downloads\tcc demo 15-05\tcc demo\obj\Debug\tcc demo.pdb
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\tcc demo.dll.config
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\tcc demo.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\tcc demo.pdb
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\csc.exe
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\csc.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\csc.rsp
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\csi.exe
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\csi.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\csi.rsp
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.AppContext.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Console.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Net.Http.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\vbc.exe
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\vbc.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\vbc.rsp
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Antlr3.Runtime.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\BouncyCastle.Crypto.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Google.Protobuf.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\K4os.Hash.xxHash.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\MySql.Data.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Newtonsoft.Json.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Buffers.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.IO.Pipelines.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Memory.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Numerics.Vectors.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Helpers.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Mvc.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Optimization.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Razor.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\WebGrease.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\BouncyCastle.Crypto.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Google.Protobuf.pdb
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Google.Protobuf.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\K4os.Hash.xxHash.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\MySql.Data.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Buffers.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.IO.Pipelines.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Memory.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Numerics.Vectors.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Helpers.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Mvc.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Optimization.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.Razor.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Newtonsoft.Json.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Antlr3.Runtime.pdb
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.AssemblyReference.cache
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.CoreCompileInputs.cache
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.CopyComplete
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.dll
+C:\Users\3adsmod\Downloads\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\tcc demo.dll.config
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\tcc demo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\tcc demo.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\csc.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\csc.exe.config
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\csc.rsp
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\csi.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\csi.exe.config
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\csi.rsp
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.AppContext.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Console.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Net.Http.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\vbc.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\vbc.exe.config
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\vbc.rsp
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Antlr3.Runtime.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\BouncyCastle.Crypto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Google.Protobuf.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\K4os.Hash.xxHash.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\MySql.Data.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Buffers.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.IO.Pipelines.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Memory.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Numerics.Vectors.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Helpers.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Mvc.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Optimization.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Razor.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\WebGrease.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\BouncyCastle.Crypto.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Google.Protobuf.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Google.Protobuf.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\K4os.Hash.xxHash.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\MySql.Data.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Buffers.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.IO.Pipelines.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Memory.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Numerics.Vectors.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Helpers.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Mvc.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Optimization.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.Razor.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Newtonsoft.Json.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Antlr3.Runtime.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.pdb
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\tcc demo.dll.config
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\tcc demo.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\tcc demo.pdb
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\csc.exe
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\csc.exe.config
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\csc.rsp
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\csi.exe
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\csi.exe.config
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\csi.rsp
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.AppContext.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Console.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Net.Http.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\vbc.exe
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\vbc.exe.config
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\vbc.rsp
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Antlr3.Runtime.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\BouncyCastle.Crypto.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Google.Protobuf.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\K4os.Hash.xxHash.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\MySql.Data.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Newtonsoft.Json.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Buffers.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.IO.Pipelines.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Memory.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Numerics.Vectors.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Helpers.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Mvc.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Optimization.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Razor.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\WebGrease.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\BouncyCastle.Crypto.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Google.Protobuf.pdb
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Google.Protobuf.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\K4os.Hash.xxHash.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\MySql.Data.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Buffers.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.IO.Pipelines.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Memory.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Numerics.Vectors.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Helpers.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Mvc.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Optimization.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.Razor.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Newtonsoft.Json.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Antlr3.Runtime.pdb
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.AssemblyReference.cache
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.CoreCompileInputs.cache
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.csproj.CopyComplete
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.dll
+C:\Users\3adsmod\Desktop\ProjetoTCCVetCare\tcc demo 16-05\tcc demo\obj\Debug\tcc demo.pdb

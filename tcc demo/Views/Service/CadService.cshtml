@@ -1,0 +1,41 @@
+﻿@model tcc_demo.Models.Service
+
+@using (Html.BeginForm("CadService", "Service", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.nameService)
+    </div>
+
+    <div class="editor-field">
+        @Html.EditorFor(m => m.nameService, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.nameService, "", new { @class = "text-danger" })
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.descriptionService)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.descriptionService, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.descriptionService, "", new { @class = "text-danger" })
+        @ViewBag.CPF
+    </div>
+    <br />
+
+    <div class="editor-label">
+        @Html.LabelFor(m => m.priceService)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.priceService, new { htmlAttributes = new { @type = "Double", } })
+        @Html.ValidationMessageFor(model => model.priceService, "", new { @class = "text-danger" })
+        @ViewBag.Email
+    </div>
+    <br />
+
+
+    <input type="submit" value="Cadastrar" />
+}
+<br />
+@ViewBag.msg
+

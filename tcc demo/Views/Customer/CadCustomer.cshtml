@@ -1,0 +1,59 @@
+﻿@model tcc_demo.Models.Customer
+
+@using (Html.BeginForm("CadCustomer", "Customer", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+  
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.nameCustomer)
+    </div>
+
+    <div class="editor-field">
+        @Html.EditorFor(m => m.nameCustomer, new { htmlAttributes = new { @type = "text", } })
+    </div>
+    <br />
+    <div class="editor-label">
+        @Html.LabelFor(m => m.cpfCustomer)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.cpfCustomer, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.cpfCustomer, "", new { @class = "text-danger" })
+        @ViewBag.CPF
+    </div>
+    <br />
+
+    <div class="editor-label">
+        @Html.LabelFor(m => m.emailCustomer)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.emailCustomer, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.emailCustomer, "", new { @class = "text-danger" })
+        @ViewBag.Email
+    </div>
+    <br />
+
+    <div class="editor-label">
+        @Html.LabelFor(m => m.passwordCustomer)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.passwordCustomer, new { htmlAttributes = new { @type = "text", } })
+        @Html.ValidationMessageFor(model => model.passwordCustomer, "", new { @class = "text-danger" })
+
+    </div>
+    <br />
+
+
+    <div class="editor-label">
+        @Html.LabelFor(m => m.phoneCustomer)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(m => m.phoneCustomer, new { htmlAttributes = new { @type = "double" } })
+        @Html.ValidationMessageFor(model => model.phoneCustomer, "", new { @class = "text-danger" })
+    </div>
+    <br />
+
+    <input type="submit" value="Cadastrar" />
+}
+<br />
+@ViewBag.msg
+

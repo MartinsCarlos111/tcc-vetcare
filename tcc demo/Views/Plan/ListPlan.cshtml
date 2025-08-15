@@ -1,0 +1,93 @@
+﻿@model IEnumerable<tcc_demo.Models.Plan>
+
+
+<h2>Listar Clientes</h2>
+
+
+<table class="table">
+
+    <tr>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idPlan)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.namePlan)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.descriptionPlan)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.pricePlan)
+
+        </th>
+
+        <th>
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idPlan)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.namePlan)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.descriptionPlan)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.pricePlan)
+
+            </td>
+
+
+            <td>
+
+                @Html.ActionLink("Atualizar", "UpdatePlan", new { id = item.idPlan }) |
+
+                @Html.ActionLink("Excluir", "DeletePlan", new { id = item.idPlan }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+
+            </td>
+
+        </tr>
+
+
+
+    }
+
+
+
+</table>
+
+
+
+
+

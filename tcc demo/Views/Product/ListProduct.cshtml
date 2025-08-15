@@ -1,0 +1,102 @@
+﻿@model IEnumerable<tcc_demo.Models.Product>
+
+
+<h2>Listar Produtos</h2>
+
+
+<table class="table">
+
+    <tr>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idProduct)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.nameProduct)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.image)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.descriptionProduct)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.unitPrice)
+
+        </th>
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idProduct)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.nameProduct)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.image)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.descriptionProduct)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.unitPrice)
+
+            </td>
+
+            <td>
+
+                @Html.ActionLink("Atualizar", "UpdateProduct", new { id = item.idProduct }) |
+
+                @Html.ActionLink("Excluir", "DeleteProduct", new { id = item.idProduct }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+
+            </td>
+
+        </tr>
+
+
+
+    }
+
+
+
+</table>
+
+
+
+
+

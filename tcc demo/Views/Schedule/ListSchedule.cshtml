@@ -1,0 +1,126 @@
+﻿@model IEnumerable<tcc_demo.Models.Schedule>
+
+
+<h2>Listar Agendamento</h2>
+
+
+<table class="table">
+
+    <tr>
+        <th>
+
+            @Html.DisplayNameFor(model => model.idSchedule)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idCustomer)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idAnimal)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.idService)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.dateSchedule)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.timeSchedule)
+
+        </th>
+
+        <th>
+
+            @Html.DisplayNameFor(model => model.observations)
+
+        </th>
+    </tr>
+
+
+
+    @foreach (var item in Model)
+
+    {
+
+        <tr>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idSchedule)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idCustomer)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idAnimal)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.idService)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.dateSchedule)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.timeSchedule)
+
+            </td>
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.observations)
+
+            </td>
+
+
+
+            <td>
+
+                @Html.ActionLink("Atualizar", "UpdateSchedule", new { id = item.idSchedule }) |
+
+                @Html.ActionLink("Excluir", "DeleteSchedule", new { id = item.idSchedule }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+
+            </td>
+
+        </tr>
+
+
+
+    }
+
+
+
+</table>
+
+
+
+
+

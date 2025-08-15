@@ -1,0 +1,177 @@
+﻿
+@model tcc_demo.Models.Animal
+<div class="center">
+
+    @using (Html.BeginForm("UpdateAnimal", "Animal", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+    {
+
+        @Html.AntiForgeryToken()
+
+
+
+    <div class="form-horizontal">
+
+        <hr />
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.nameAnimal, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.nameAnimal, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.nameAnimal, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>
+
+        <div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.speciesAnimal, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.speciesAnimal, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.speciesAnimal, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>
+
+        <div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.ageAnimal, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.ageAnimal, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.ageAnimal, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>
+
+        <div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.breedAnimal, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.breedAnimal, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.breedAnimal, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>
+
+        <div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.genderAnimal, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.genderAnimal, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.genderAnimal, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>
+
+        @*<div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.idPlan, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.idPlan, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.idPlan, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>*@
+
+        @*<div class="form-group space-around-flex">
+
+            <div class="">
+
+                @Html.LabelFor(model => model.idCustomer, htmlAttributes: new { @class = "control-label col-md-2" })
+
+            </div>
+
+            <div class="col-md-10">
+
+                @Html.EditorFor(model => model.idCustomer, new { htmlAttributes = new { @class = "form-control" } })
+
+                @Html.ValidationMessageFor(model => model.idCustomer, "", new { @class = "text-danger" })
+
+            </div>
+
+        </div>*@
+
+        <div class="form-group center">
+
+            <div class="col-md-10">
+
+                @ViewBag.msg <br />
+
+            </div>
+
+        </div>
+
+
+
+        <div class="form-group">
+
+            <div class="col-md-offset-2 col-md-10">
+
+                <input type="submit" value="Atualizar Pet" class="btn btn-success" />
+
+            </div>
+
+        </div>
+
+    </div>
+
+    }
+
+</div>
+
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+}
